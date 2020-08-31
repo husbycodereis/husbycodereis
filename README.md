@@ -15,6 +15,8 @@
 ### Spotify Playing 🎧
 [![Spotify](https://spotify-track.vercel.app/api/spotify)](https://open.spotify.com/user/alirizareisoglu)
 
+[<img src="https://spotify-track.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/alirizareisoglu)
+
 ### Connect with me:
 
 
