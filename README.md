@@ -65,7 +65,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="husbycodereis's Github Stats" src="github-readme-stats-ten-beige.vercel.app
+  <img align="left" alt="husbycodereis's Github Stats" src="https://github-readme-stats-ten-beige.vercel.app
 /api?username=husbycodereis&show_icons=true&hide_border=true" />
 
 </details>
