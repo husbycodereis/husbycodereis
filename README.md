@@ -19,7 +19,7 @@
 -->
 
 
-[![Spotify](https://spotify-track.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/alirizareisoglu)
+[![Spotify](https://spotify-track.vercel.app/api/spotify)](https://open.spotify.com/user/alirizareisoglu)
 ### Connect with me:
 
 
