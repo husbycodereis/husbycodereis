@@ -55,8 +55,9 @@
   <summary>:zap: Github Stats</summary>
 
 
-<img align="left" alt="Husbycodereis's Github Stats" src="husbycodereis-git-master.husbycodereis.vercel.app/api?username=husbycodereis&show_icons=true&hide_border=true" />
 
+
+![Husbycodereis's github stats](https://husbycodereis.vercel.app/api?username=husbycodereis)](https://github.com/anuraghazra/github-readme-stats)
 ![Husbycodereis's github stats](https://github-readme-stats.vercel.app/api?username=husbycodereis)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
