@@ -1,19 +1,17 @@
-name: update-gh-activity
+name: Update README
 
 on:
   schedule:
-    - cron: '30 * * * *'
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: GitHub - Activity - Readme
 
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: jamesgeorge007/github-activity-readme@v0.2.0
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_PROJECTS: "False"
-          SHOW_TIMEZONE: "False"
-          SHOW_SHORT_INFO: "False" 
-          SHOW_LOC_CHART: "False"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
