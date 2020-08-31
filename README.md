@@ -56,7 +56,7 @@
 
 
 ![Husbycodereis's github stats](https://github-readme-stats.vercel.app/api?username=husbycodereis)
-![Husbycodereis's github stats](https://github-readme-stats-ten-beige.vercel.app/api?username=husbycodereis)
+<!--![Husbycodereis's github stats](https://github-readme-stats-ten-beige.vercel.app/api?username=husbycodereis)-->
 </details>
 
 [website]: https://twitter.com/Codereis1
