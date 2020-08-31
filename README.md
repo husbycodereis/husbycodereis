@@ -17,6 +17,9 @@
 
 [<img src="https://spotify-track.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/alirizareisoglu)
 -->
+
+
+[![Spotify](https://spotify-track.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/alirizareisoglu)
 ### Connect with me:
 
 
