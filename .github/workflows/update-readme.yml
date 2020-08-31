@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: GitHub - Activity - Readme
 
     steps:
       - uses: actions/checkout@v2
