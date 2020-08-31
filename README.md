@@ -46,7 +46,8 @@
 
 ---
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <details>
   <summary>:zap: Github Stats</summary>
