@@ -42,13 +42,18 @@
 <br />
 
 ---
+
+<details>
+  <summary>:zap: Recent Github Activity</summary>
 <!--START_SECTION:waka-->
 ```text
 Week: 24 August, 2020 - 31 August, 2020
 
-Other   1 hr 36 mins    █████████████████████████   100.00 % 
+Dart   1 hr 36 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
+
+</details>
 
 <br />
 
