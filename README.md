@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2020 - 03 September, 2020
+Week: 28 August, 2020 - 04 September, 2020
 
 Other   1 hr 36 mins    █████████████████████████   100.00 % 
 ```
