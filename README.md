@@ -48,10 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 06 September, 2020 - 13 September, 2020
+Week: 07 September, 2020 - 14 September, 2020
 
-Dart    16 hrs 31 mins  ██████████████▒░░░░░░░░░░   56.75 % 
-Other   12 hrs 35 mins  ██████████▓░░░░░░░░░░░░░░   43.25 % 
+Dart     25 hrs 13 mins  █████████████████░░░░░░░░   68.32 % 
+Other    11 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
+YAML     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+XML      11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Groovy   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 ```
 <!--END_SECTION:waka-->
 </details>
