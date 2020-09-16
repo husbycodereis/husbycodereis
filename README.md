@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 08 September, 2020 - 15 September, 2020
 
 Dart     25 hrs 13 mins  █████████████████░░░░░░░░   68.32 % 
 Other    11 hrs 3 mins   ███████▒░░░░░░░░░░░░░░░░░   29.96 % 
