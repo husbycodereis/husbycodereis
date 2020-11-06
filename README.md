@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2020 - 04 November, 2020
+Week: 29 October, 2020 - 05 November, 2020
 
 Dart       35 hrs 9 mins   ████████████████████░░░░░   80.13 % 
 Other      8 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
