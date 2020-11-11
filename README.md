@@ -48,13 +48,12 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2020 - 09 November, 2020
+Week: 03 November, 2020 - 10 November, 2020
 
-Dart       35 hrs 9 mins   ████████████████████░░░░░   80.13 % 
-Other      8 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.27 % 
-JSON       22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-YAML       19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Dart    13 hrs 50 mins  ███████████████░░░░░░░░░░   59.61 % 
+Other   9 hrs 9 mins    ██████████░░░░░░░░░░░░░░░   39.45 % 
+JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+YAML    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 </details>
