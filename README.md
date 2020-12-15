@@ -10,14 +10,13 @@
 - 👯 I’m interested in any Flutter related open-source projects
 - 🥅 2020 Goals: -Write my first individual flutter app / finish CS50. ==> both completed!!!
 
-- 🔭 2021 Goals: - Train in machine learning and create a flutter app including ne information.
-                 - Create a freelancing webpage, portfolio.
-- ⚡ Daily joys:  do yoga & play guitar & play games
+- 🔭 2021 Goals: - Train in basic machine learning to implement into flutter apps. Create a freelancing portfolio.
+- ⚡ Daily joys:  hiking & play games & cook & yoga
 
 ### Connect with me:
 
 
-[<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codereis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
