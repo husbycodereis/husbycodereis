@@ -6,16 +6,18 @@
 
 ## A husband, developer, full-time food lover
 
-- 🔭 I’m currently training to learn mobile  development!
 - 🌱 I’m currently focused on learning Flutter-Dart
-- 👯 I’m interested in any open-source projects to dive deeper into programming
-- 🥅 2020 Goals: -Write my first individual flutter app / finish CS50
+- 👯 I’m interested in any Flutter related open-source projects
+- 🥅 2020 Goals: -Write my first individual flutter app / finish CS50. ==> both completed!!!
+
+- 🔭 2021 Goals: - Train in machine learning and create a flutter app including ne information.
+                 - Create a freelancing webpage, portfolio.
 - ⚡ Daily joys:  do yoga & play guitar & play games
 
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/slack.svg" />][slack]
