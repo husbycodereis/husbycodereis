@@ -6,7 +6,8 @@
 
 ## A husband, developer, full-time food lover
 
-- 🌱 I’m currently focused on learning Flutter-Dart
+- 🌱 I’m currently learning how to write Flutter applications with Clean Architecture and OOP principals.
+- :floppy_disk: hey
 - 👯 I’m interested in any Flutter related open-source projects
 - 🥅 2020 Goals: -Write my first individual flutter app / finish CS50. ==> both completed!!!
 
