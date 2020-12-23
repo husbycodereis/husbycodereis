@@ -4,13 +4,13 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/codereis1?label=Follow%20codereis&style=social)](https://twitter.com/Codereis1)
 
 
-## A husband, developer, full-time food lover
+## A developer, husband, full-time food lover
 
 - :calling: I’m currently working on writing Flutter applications with Clean Architecture and OOP principals.
 - :beginner: I am learning TDD principals and agile project management.
 - 👯 I’m interested in any Flutter related open-source projects
 - :dart: 2020 Goals: -Write my first individual flutter app / finish CS50. ==> both completed!!!
-- 🔭 2021 Goals: - Train in basic machine learning to implement into flutter apps. Create a freelancing portfolio.
+- 🔭 2021 Goals: - Train in basic machine learning to implement into flutter apps. Create a freelancing portfolio. Start a dev-log.
 - ⚡ Daily joys:  hiking & play games & cook & yoga
 
 ### Connect with me:
