@@ -65,7 +65,8 @@ Groovy   1 min           ░░░░░░░░░░░░░░░░░░�
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https:///github-stats-five.vercel.app/api?username=husbycodereis&show_icons=true&hide_border=true" />
+<img align="left" alt="HusbyCodeReis's GitHub Stats" src="https://github-stats-five.vercel.app/api?username=husbycodereis&show_icons=true&hide_border=true" />
+
 </details>
 
 [website]: https://twitter.com/Codereis1
