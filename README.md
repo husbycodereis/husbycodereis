@@ -49,13 +49,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 14 December, 2020 - 21 December, 2020
+Week: 15 December, 2020 - 22 December, 2020
 
-Other    20 hrs 57 mins  ████████████▓░░░░░░░░░░░░   50.13 % 
-Dart     20 hrs 39 mins  ████████████▒░░░░░░░░░░░░   49.42 % 
-YAML     9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other    25 hrs 3 mins   ██████████████▓░░░░░░░░░░   58.47 % 
+Dart     17 hrs 36 mins  ██████████▒░░░░░░░░░░░░░░   41.11 % 
+YAML     6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+XML      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Groovy   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 <!--END_SECTION:waka-->
 </details>
