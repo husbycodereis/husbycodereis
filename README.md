@@ -49,7 +49,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2020 - 27 December, 2020
+Week: 21 December, 2020 - 28 December, 2020
 
 Other      35 hrs 17 mins  █████████████████▒░░░░░░░   69.24 % 
 Dart       13 hrs 22 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.22 % 
