@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-
+[<img align="left" alt="codereis" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codereis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codereis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codereis | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -69,9 +69,9 @@ JSON     12 mins         ▒░░░░░░░░░░░░░░░░░�
 
 </details>
 
-[website]: https://twitter.com/Codereis1
+[website]: https://codereis.com
 [twitter]: https://twitter.com/Codereis1
-[youtube]: https://youtube.com/heyokali
+[youtube]: https://www.youtube.com/user/runb1tchrun
 [instagram]: https://instagram.com/husbycodereis
 [linkedin]: https://www.linkedin.com/in/ali-r%C4%B1za-reiso%C4%9Flu-56b796aa/
 [discord]: https://twitter.com/Codereis1
