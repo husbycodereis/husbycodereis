@@ -49,7 +49,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2020 - 04 January, 2021
+Week: 29 December, 2020 - 05 January, 2021
 
 Other      24 hrs 40 mins  ██████████████████████░░░   88.03 % 
 HTML       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
