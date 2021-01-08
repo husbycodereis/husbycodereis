@@ -49,13 +49,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
-Other      24 hrs 1 min    ████████████████████▒░░░░   81.50 % 
-Markdown   2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-HTML       1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Dart       29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-TOML       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other      23 hrs 54 mins  ███████████████████▓░░░░░   78.86 % 
+Markdown   2 hrs 23 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+HTML       1 hr 40 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Dart       56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TOML       26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 <!--END_SECTION:waka-->
 </details>
