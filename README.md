@@ -49,13 +49,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2021 - 12 January, 2021
+Week: 06 January, 2021 - 13 January, 2021
 
-Other      24 hrs 57 mins  ██████████████████░░░░░░░   71.37 % 
-Markdown   3 hrs 48 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-HTML       2 hrs 2 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-Dart       1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
-SCSS       1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Other      25 hrs 42 mins  ███████████████████▒░░░░░   76.86 % 
+Markdown   3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Dart       1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+SCSS       1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+HTML       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 <!--END_SECTION:waka-->
 </details>
