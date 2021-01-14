@@ -73,6 +73,6 @@ HTML       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░�
 [twitter]: https://twitter.com/Codereis1
 [youtube]: https://www.youtube.com/user/runb1tchrun
 [instagram]: https://instagram.com/husbycodereis
-[linkedin]: https://www.linkedin.com/in/ali-r%C4%B1za-reiso%C4%9Flu-56b796aa/
+[linkedin]: https://www.linkedin.com/in/alirizareisoglu/
 [discord]: https://twitter.com/Codereis1
 [slack]: https://fluttercommunity.slack.com/team/U0174J52N8L
