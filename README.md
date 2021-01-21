@@ -49,7 +49,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2021 - 19 January, 2021
+Week: 13 January, 2021 - 20 January, 2021
 
 Other      31 hrs 52 mins  ████████████████████▓░░░░   82.44 % 
 Markdown   3 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
