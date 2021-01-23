@@ -49,13 +49,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-Other      24 hrs 51 mins  ████████████████▒░░░░░░░░   65.97 % 
-Dart       9 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Markdown   2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-SCSS       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-YAML       11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other      24 hrs 51 mins  ███████████████▓░░░░░░░░░   62.39 % 
+Dart       12 hrs 56 mins  ████████░░░░░░░░░░░░░░░░░   32.48 % 
+Markdown   1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+SCSS       15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+YAML       12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 </details>
