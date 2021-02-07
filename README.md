@@ -49,7 +49,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2021 - 05 February, 2021
+Week: 30 January, 2021 - 06 February, 2021
 
 Other      28 hrs 30 mins  ████████████████░░░░░░░░░   64.46 % 
 Dart       12 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
