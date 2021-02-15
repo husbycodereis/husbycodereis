@@ -68,6 +68,10 @@ HTML       25 mins         ▒░░░░░░░░░░░░░░░░�
 
 </details>
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 [website]: https://codereis.com
 [twitter]: https://twitter.com/Codereis1
 [youtube]: https://www.youtube.com/user/runb1tchrun
