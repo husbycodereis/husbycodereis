@@ -70,6 +70,8 @@ HTML       25 mins         ▒░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create a new Flutter Project with a Boilerplate | Part 1](https://medium.com/@alirizareisoglu/how-to-create-a-new-flutter-project-with-a-boilerplate-part-1-7dbed4397cec?source=rss-a8abdeddb236------2)
+- [How to create a new Flutter Project with a Boilerplate | Part 2](https://medium.com/@alirizareisoglu/how-to-create-a-new-flutter-project-with-a-boilerplate-part-2-2df4fbd8ed4c?source=rss-a8abdeddb236------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codereis.com
