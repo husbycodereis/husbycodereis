@@ -48,13 +48,10 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 12 February, 2021 - 19 February, 2021
+Week: 13 February, 2021 - 20 February, 2021
 
-Other      28 hrs 30 mins  ████████████████░░░░░░░░░   64.46 % 
-Dart       12 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   29.36 % 
-Markdown   59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-SCSS       49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-HTML       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Dart    16 hrs 31 mins  ██████████████▒░░░░░░░░░░   56.75 % 
+Other   12 hrs 35 mins  ██████████▓░░░░░░░░░░░░░░   43.25 % 
 ```
 <!--END_SECTION:waka-->
 </details>
