@@ -48,10 +48,12 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 17 March, 2021 - 24 March, 2021
+Week: 18 March, 2021 - 25 March, 2021
 
-Dart    16 hrs 31 mins  ██████████████▒░░░░░░░░░░   56.75 % 
-Other   12 hrs 35 mins  ██████████▓░░░░░░░░░░░░░░   43.25 % 
+Dart    14 hrs 24 mins  ████████████▓░░░░░░░░░░░░   50.81 % 
+Other   13 hrs 51 mins  ████████████▒░░░░░░░░░░░░   48.87 % 
+JSON    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 <!--END_SECTION:waka-->
 </details>
