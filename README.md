@@ -70,9 +70,8 @@ XML        10 mins         ▒░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Custom Splash Screen](https://alirizareisoglu.medium.com/flutter-custom-splash-screen-26ca3292fa72?source=rss-a8abdeddb236------2)
 - [How to create a new Flutter Project with a Boilerplate | Part 1](https://alirizareisoglu.medium.com/how-to-create-a-new-flutter-project-with-a-boilerplate-part-1-7dbed4397cec?source=rss-a8abdeddb236------2)
-- [How to create a new Flutter Project with a Boilerplate | Part 2](https://alirizareisoglu.medium.com/how-to-create-a-new-flutter-project-with-a-boilerplate-part-2-2df4fbd8ed4c?source=rss-a8abdeddb236------2)
-- [How to create a new Flutter Project with a Boilerplate | Part 3](https://alirizareisoglu.medium.com/how-to-create-a-new-flutter-project-with-a-boilerplate-part-3-17ad40b8cd8e?source=rss-a8abdeddb236------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codereis.com
