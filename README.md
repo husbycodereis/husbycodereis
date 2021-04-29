@@ -70,6 +70,7 @@ Groovy     3 mins          ░░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Dark Theme for Flutter Applications](https://alirizareisoglu.medium.com/dark-theme-for-flutter-applications-9d73e093898c?source=rss-a8abdeddb236------2)
 - [Flutter Custom Splash Screen](https://alirizareisoglu.medium.com/flutter-custom-splash-screen-26ca3292fa72?source=rss-a8abdeddb236------2)
 - [How to create a new Flutter Project with a Boilerplate | Part 1](https://alirizareisoglu.medium.com/how-to-create-a-new-flutter-project-with-a-boilerplate-part-1-7dbed4397cec?source=rss-a8abdeddb236------2)
 <!-- BLOG-POST-LIST:END -->
