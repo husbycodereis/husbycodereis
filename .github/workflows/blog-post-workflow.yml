@@ -16,4 +16,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           # comma-separated list of RSS feed urls
-          feed_list: "feed:https://dev.to/feed/husbycodereis"
+          feed_list: "https://dev.to/feed/husbycodereis"
