@@ -70,9 +70,10 @@ YAML       16 mins         ▒░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Dark Theme for Flutter Applications](https://alirizareisoglu.medium.com/dark-theme-for-flutter-applications-9d73e093898c?source=rss-a8abdeddb236------2)
-- [Flutter Custom Splash Screen](https://alirizareisoglu.medium.com/flutter-custom-splash-screen-26ca3292fa72?source=rss-a8abdeddb236------2)
-- [How to create a new Flutter Project with a Boilerplate | Part 1](https://alirizareisoglu.medium.com/how-to-create-a-new-flutter-project-with-a-boilerplate-part-1-7dbed4397cec?source=rss-a8abdeddb236------2)
+- [MobX: Flutter State Management like a Boss](https://dev.to/husbycodereis/mobx-flutter-state-management-like-a-boss-28m5)
+- [Dark Theme for Flutter Applications](https://dev.to/husbycodereis/dark-theme-for-flutter-applications-2ngp)
+- [Flutter Custom Splash Screen](https://dev.to/husbycodereis/flutter-custom-splash-screen-36db)
+- [How to create a new Flutter Project with a Boilerplate](https://dev.to/husbycodereis/how-to-create-a-new-flutter-project-with-a-boilerplate-2mel)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codereis.com
