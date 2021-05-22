@@ -61,12 +61,6 @@ XML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 <br />
 
-<details>
-  <summary>:zap: Github Stats</summary>
-
-<img align="left" alt="HusbyCodeReis's GitHub Stats" src="https://github-stats-five.vercel.app/api?username=husbycodereis&show_icons=true&hide_border=true" />
-
-</details>
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
