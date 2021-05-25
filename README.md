@@ -64,11 +64,11 @@ Other      0 secs          ░░░░░░░░░░░░░░░░░�
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating PDF files with Multiple Images in Flutter](https://dev.to/husbycodereis/creating-pdf-files-with-multiple-images-in-flutter-3eco)
 - [Custom Neumorphic Shapes in Flutter](https://dev.to/husbycodereis/custom-neumorphic-shapes-in-flutter-1mml)
 - [MobX: Flutter State Management like a Boss](https://dev.to/husbycodereis/mobx-flutter-state-management-like-a-boss-28m5)
 - [Dark Theme for Flutter Applications](https://dev.to/husbycodereis/dark-theme-for-flutter-applications-2ngp)
 - [Flutter Custom Splash Screen](https://dev.to/husbycodereis/flutter-custom-splash-screen-36db)
-- [How to create a new Flutter Project with a Boilerplate](https://dev.to/husbycodereis/how-to-create-a-new-flutter-project-with-a-boilerplate-2mel)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codereis.com
