@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 10 June, 2021 - 17 June, 2021
+Week: 11 June, 2021 - 18 June, 2021
 
 Dart    15 hrs 17 mins  ████████████████████████▓   98.21 % 
 JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
