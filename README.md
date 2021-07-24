@@ -48,9 +48,9 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 15 July, 2021 - 22 July, 2021
+Week: 16 July, 2021 - 23 July, 2021
 
-Dart    39 mins         █████████████████████████   100.00 % 
+Dart    48 mins         █████████████████████████   100.00 % 
 Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
