@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 22 July, 2021 - 29 July, 2021
+Week: 23 July, 2021 - 30 July, 2021
 
 Dart    5 hrs 50 mins   ████████████████████████░   96.31 % 
 JSON    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
