@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 04 August, 2021 - 11 August, 2021
+Week: 05 August, 2021 - 12 August, 2021
 
 Dart         7 hrs 29 mins   ███████████████▒░░░░░░░░░   61.29 % 
 JavaScript   3 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.95 % 
