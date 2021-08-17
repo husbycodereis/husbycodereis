@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 08 August, 2021 - 15 August, 2021
+Week: 09 August, 2021 - 16 August, 2021
 
-JavaScript   3 hrs 57 mins   ██████████████████░░░░░░░   72.41 % 
-Dart         54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-JSON         32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript   3 hrs 35 mins   █████████████████▓░░░░░░░   70.37 % 
+Dart         54 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 % 
+JSON         32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Text         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 </details>
