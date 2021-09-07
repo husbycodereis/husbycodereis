@@ -48,12 +48,9 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 03 September, 2021
+Week: 30 August, 2021 - 06 September, 2021
 
-Dart     2 hrs 28 mins   ██████████████████████▓░░   90.43 % 
-XML      8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-JSON     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Groovy   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Bash   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 </details>
