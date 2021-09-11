@@ -48,9 +48,10 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 02 September, 2021 - 09 September, 2021
+Week: 03 September, 2021 - 10 September, 2021
 
-Bash   2 mins          █████████████████████████   100.00 % 
+Dart   10 mins         ████████████████████▒░░░░   81.69 % 
+Bash   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.31 % 
 ```
 <!--END_SECTION:waka-->
 </details>
