@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 28 September, 2021 - 05 October, 2021
+Week: 29 September, 2021 - 06 October, 2021
 
-Dart         25 hrs 20 mins  ██████████████████████▓░░   91.18 % 
-Groovy       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-YAML         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Dart         20 hrs 34 mins  █████████████████████░░░░   84.51 % 
+JSON         2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+Groovy       1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+YAML         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Git Config   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 <!--END_SECTION:waka-->
 </details>
