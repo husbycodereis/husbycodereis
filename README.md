@@ -6,10 +6,10 @@
 
 ## A developer, husband, full-time food lover
 
-- :calling: I’m currently working on writing Flutter applications with Clean Architecture and SOLID principals.
+- :calling: I’m currently working on writing Flutter applications with Clean Architecture or MVVM pattern.
 - :beginner: I am developing skills in TDD principals and agile project management.
 - 👯 I’m interested in any Flutter related open-source projects
-- 🔭 2021 Goals: - Train in machine learning to implement into flutter apps. Write consistently on dev-log.
+- 🔭 2021 Goals: - Larn node.js for back-end server building. Write consistently on dev-log.
 - ⚡ Daily joys:  hiking & play games & cook & yoga
 
 ### Connect with me:
