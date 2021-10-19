@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 17 October, 2021
+Week: 11 October, 2021 - 18 October, 2021
 
-Dart         24 hrs 35 mins  ████████████████████████░   95.34 % 
-YAML         35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Markdown     7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Dart         24 hrs 58 mins  ███████████████████████▒░   93.91 % 
+YAML         45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JavaScript   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Groovy       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 </details>
