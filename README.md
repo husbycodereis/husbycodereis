@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 01 December, 2021 - 08 December, 2021
+Week: 02 December, 2021 - 09 December, 2021
 
 Dart     19 hrs 10 mins  ██████████████████████▒░░   89.65 % 
 JSON     47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
