@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 27 December, 2021
+Week: 21 December, 2021 - 28 December, 2021
 
-Dart         19 hrs 29 mins  ███████████████████████▓░   94.93 % 
-YAML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-Groovy       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Dart         15 hrs 59 mins  ███████████████████████▒░   93.97 % 
+YAML         26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+XML          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Properties   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Groovy       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 ```
 <!--END_SECTION:waka-->
 </details>
