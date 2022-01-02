@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 31 December, 2021
+Week: 25 December, 2021 - 01 January, 2022
 
 Dart         16 hrs 15 mins  ████████████████████████▒   97.39 % 
 XML          20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
