@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 21 January, 2022
+Week: 15 January, 2022 - 22 January, 2022
 
 Dart         8 hrs 11 mins   ████████████████████████▒   97.21 % 
 YAML         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
