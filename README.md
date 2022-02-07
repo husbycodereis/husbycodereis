@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 05 February, 2022
+Week: 30 January, 2022 - 06 February, 2022
 
-Dart          23 hrs 45 mins  ██████████████████████▒░░   89.34 % 
-XML           59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-Markdown      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-JSON          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Objective-C   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Dart          24 hrs 49 mins  ██████████████████████▒░░   89.74 % 
+XML           59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Markdown      50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+JSON          22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Objective-C   19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 <!--END_SECTION:waka-->
 </details>
