@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 09 February, 2022
+Week: 03 February, 2022 - 10 February, 2022
 
 Dart       25 hrs 4 mins   ███████████████████████░░   91.86 % 
 Markdown   1 hr 54 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
