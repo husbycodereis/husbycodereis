@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 10 February, 2022 - 17 February, 2022
+Week: 11 February, 2022 - 18 February, 2022
 
 Dart    14 mins         ███████████▓░░░░░░░░░░░░░   46.53 % 
 Other   10 mins         ████████▓░░░░░░░░░░░░░░░░   34.21 % 
