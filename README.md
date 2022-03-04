@@ -48,13 +48,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 23 February, 2022 - 02 March, 2022
+Week: 24 February, 2022 - 03 March, 2022
 
-Dart         12 hrs 32 mins  ████████████████████████▒   97.49 % 
-YAML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Dart         12 hrs 20 mins  ████████████████████████▓   98.26 % 
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 </details>
