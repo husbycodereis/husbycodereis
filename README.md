@@ -48,7 +48,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 04 March, 2022 - 11 March, 2022
+Week: 05 March, 2022 - 12 March, 2022
 
 Dart         8 hrs 15 mins   ██████████████████████░░░   88.20 % 
 XML          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
