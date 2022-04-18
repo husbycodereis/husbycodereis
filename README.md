@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 09 April, 2022 - 16 April, 2022
+Week: 10 April, 2022 - 17 April, 2022
 
 Dart     6 hrs 53 mins   ██████████████████████▒░░   89.72 % 
 XML      29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
