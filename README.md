@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 22 April, 2022 - 29 April, 2022
+Week: 23 April, 2022 - 30 April, 2022
 
 Dart    20 hrs 38 mins  ████████████████████████▓   98.57 % 
 Other   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
