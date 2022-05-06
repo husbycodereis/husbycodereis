@@ -38,10 +38,9 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 27 April, 2022 - 04 May, 2022
+Week: 28 April, 2022 - 05 May, 2022
 
-Dart    8 hrs 26 mins   ████████████████████████▒   97.94 % 
-Other   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Dart   4 hrs 45 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 </details>
