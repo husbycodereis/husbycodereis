@@ -38,9 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 28 April, 2022 - 05 May, 2022
-
-Dart   4 hrs 45 mins   █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 </details>
