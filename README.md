@@ -38,7 +38,10 @@
  
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 02 May, 2022 - 09 May, 2022
+
+Dart   2 hrs 26 mins   ████████████████████████░   96.27 % 
+YAML   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
 ```
 <!--END_SECTION:waka-->
 </details>
