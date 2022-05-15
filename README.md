@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 06 May, 2022 - 13 May, 2022
+Week: 07 May, 2022 - 14 May, 2022
 
 Dart          10 hrs 2 mins   ██████████████████████░░░   87.60 % 
 Other         51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
