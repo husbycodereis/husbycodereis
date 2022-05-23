@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 14 May, 2022 - 21 May, 2022
+Week: 15 May, 2022 - 22 May, 2022
 
 Dart       5 hrs 2 mins    █████████████████████▒░░░   85.43 % 
 JSON       16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
