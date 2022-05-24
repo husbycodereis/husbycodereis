@@ -51,6 +51,10 @@ Markdown   6 mins          ▒░░░░░░░░░░░░░░░░�
 
 <br />
 
+# Workshops
+- [GSC Istanbul: Flutter Basic UI Widgets & Implementations(Turkish)](https://www.youtube.com/watch?v=qnjXDaLoB-g&t=505s)
+- [FSC State Management with Mobx(English)](https://www.youtube.com/watch?v=yPiFCeBR_mk&t=15235s)
+
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
