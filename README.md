@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 21 May, 2022 - 28 May, 2022
+Week: 22 May, 2022 - 29 May, 2022
 
 Dart       11 hrs 2 mins   ██████████████████████▒░░   89.77 % 
 Markdown   34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
