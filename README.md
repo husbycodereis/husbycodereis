@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 04 June, 2022 - 11 June, 2022
+Week: 05 June, 2022 - 12 June, 2022
 
 Dart       21 hrs 23 mins  █████████████████████▒░░░   85.66 % 
 JSON       1 hr 15 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
