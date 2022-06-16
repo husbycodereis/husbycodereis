@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 07 June, 2022 - 14 June, 2022
+Week: 08 June, 2022 - 15 June, 2022
 
 Dart       27 hrs 50 mins  ██████████████████████▒░░   89.68 % 
 YAML       1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
