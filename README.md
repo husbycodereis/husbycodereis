@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 02 July, 2022 - 09 July, 2022
+Week: 03 July, 2022 - 10 July, 2022
 
 Dart         11 hrs 41 mins  █████████████████████▒░░░   85.45 % 
 Other        40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
