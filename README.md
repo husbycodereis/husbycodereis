@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 15 August, 2022 - 22 August, 2022
+Week: 16 August, 2022 - 23 August, 2022
 
 Dart     34 hrs 19 mins  ██████████████████████▓░░   90.86 % 
 YAML     56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
