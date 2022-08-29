@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 20 August, 2022 - 27 August, 2022
+Week: 21 August, 2022 - 28 August, 2022
 
 Dart     30 hrs 25 mins  ██████████████████████▒░░   89.93 % 
 HTML     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
