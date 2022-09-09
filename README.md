@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 31 August, 2022 - 07 September, 2022
+Week: 01 September, 2022 - 08 September, 2022
 
 Dart    12 hrs 27 mins  ████████████████████████░   95.50 % 
 JSON    32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
