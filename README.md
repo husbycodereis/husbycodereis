@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 05 September, 2022 - 12 September, 2022
+Week: 06 September, 2022 - 13 September, 2022
 
 Dart    21 hrs          ████████████████████████░   96.25 % 
 YAML    25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
