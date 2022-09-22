@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2022 - 20 September, 2022
+Week: 14 September, 2022 - 21 September, 2022
 
 Dart     12 hrs 13 mins  ███████████████████████▓░   94.66 % 
 Docker   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
