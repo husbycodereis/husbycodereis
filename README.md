@@ -38,13 +38,13 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 17 September, 2022 - 24 September, 2022
+Week: 18 September, 2022 - 25 September, 2022
 
-Dart     5 hrs 58 mins   ████████████████████████░   96.27 % 
-Bash     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Dart     5 hrs 53 mins   ████████████████████████░   96.37 % 
+Bash     12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 <!--END_SECTION:waka-->
 </details>
