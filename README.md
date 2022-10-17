@@ -38,7 +38,7 @@
  
 <!--START_SECTION:waka-->
 ```text
-Week: 08 October, 2022 - 15 October, 2022
+Week: 09 October, 2022 - 16 October, 2022
 
 Dart         6 hrs 58 mins   █████████████████████▓░░░   86.69 % 
 YAML         48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
