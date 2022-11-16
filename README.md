@@ -33,21 +33,6 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
- 
-<!--START_SECTION:waka-->
-```text
-Week: 17 October, 2022 - 24 October, 2022
-
-Dart    13 hrs 12 mins  ████████████████████▓░░░░   82.77 % 
-HTML    1 hr 52 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-YAML    37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-JSON    10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-```
-<!--END_SECTION:waka-->
-</details>
 
 <br />
 
