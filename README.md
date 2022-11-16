@@ -6,9 +6,9 @@
 
 ## A developer, husband and a full-time food lover
 
-- :calling: I’m currently working on writing Flutter applications with MVVM pattern.
-- :beginner: I am developing skills in TDD principals and Object Oriented Programming.
-- 🔭 2022 Goals: - Larn node.js for back-end server building. Learn SwiftUI for iOS development.
+- :calling: I’m currently working on Flutter and React projects.
+- :beginner: I am developing skills in Swift UI.
+- 🔭 2023 Goals: - Become senior in React and SwiftUI.
 
 ### Connect with me:
 
