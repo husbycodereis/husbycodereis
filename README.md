@@ -1,4 +1,4 @@
-### Hey,This is Ali - aka codereis 👋
+### Hey,This is Ali 👋
 
  
 [![Twitter Follow](https://img.shields.io/twitter/follow/codereis1?label=Follow%20codereis&style=social)](https://twitter.com/Codereis1)
