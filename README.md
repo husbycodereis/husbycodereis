@@ -6,9 +6,9 @@
 
 ## A developer, husband and a full-time food lover
 
-- :calling: I’m currently working on Flutter and React projects.
-- :beginner: I am developing skills in Swift UI.
-- 🔭 2023 Goals: - Become senior in React and SwiftUI.
+- :calling: I’m currently working on Flutter & PHP projects.
+- :beginner: I am developing skills in Backend development.
+- 🔭 2026 Goals: - Understand and develop production level PHP & Laravel products.
 
 ### Connect with me:
 
